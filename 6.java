@@ -19,10 +19,7 @@ public class JavaApplication12 {
             {
                 max=a[i];
                 break;
-            }
-            
-            
-            
+            }   
         }
         if(max==0)
         {
